@@ -11,8 +11,8 @@ This folder contains a simple, static website (HTML/CSS) for a smoker hire busin
 
 ## Edit your details
 Search for placeholders and update:
-- Email `info@smokerhire.local`
-- Phone `0000 000 000`
+- Email `rustyhardy76@yahoo.com`
+- Phone `0403176842`
 - ABN and pricing as needed
 
 ## Deploy options
