@@ -1,0 +1,9 @@
+
+<svg xmlns='http://www.w3.org/2000/svg' width='200' height='50' viewBox='0 0 200 50'>
+  <rect width='200' height='50' rx='8' fill='#3c4b2b'/>
+  <g transform='translate(10,12)'>
+    <path d='M0 20c15-20 35-20 50 0h100' stroke='#ffd580' stroke-width='3' fill='none'/>
+    <circle cx='35' cy='10' r='6' fill='#d97706'/>
+  </g>
+  <text x='70' y='32' font-family='Segoe UI, Roboto, Arial' font-size='18' fill='#fff' font-weight='700'>Smoker Hire</text>
+</svg>
